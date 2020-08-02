@@ -33,6 +33,7 @@ nav ul li a{
     padding:150px;
     line-height: 2.5;
     font-size: x-large;
+     width:100%;
     
 }
 
@@ -42,7 +43,7 @@ nav ul li a{
     font-size:x-large;
     padding:150px;
     padding-left: 150px;
-    
+    width:100%;
 }
 
 
@@ -53,6 +54,7 @@ nav ul li a{
     font-size:x-large;
     padding:150px;
     padding-left: 150px;
+        width:100%;
 }
 .skill
 {
@@ -61,6 +63,7 @@ nav ul li a{
     padding:150px;
     padding-bottom: 150px;
     padding-left: 150px;
+    width:100%;
 }
 
 
@@ -136,5 +139,6 @@ nav ul li a{
     padding:150px;
     line-height: 2.5;
     padding-left: 10px;
+    width:100%;
 }
 
